@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-ntlify hosted link: https://zingy-bubblegum-31314d.netlify.app/
+ntlify hosted link: [https://zingy-bubblegum-31314d.netlify.app/](https://66d896999839900c11470cbe--shiny-bombolone-dbdc37.netlify.app/)
